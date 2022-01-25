@@ -1,2 +1,2 @@
-# Projeto1 commit-inicial
+# Git Github tutoria
 curso sobre como utilizar o Git e Github
